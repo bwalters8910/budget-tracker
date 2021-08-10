@@ -144,6 +144,9 @@ function sendTransaction(isAdding) {
   });
 }
 
+//create save record function
+// define indexdb
+
 document.querySelector("#add-btn").onclick = function() {
   sendTransaction(true);
 };
