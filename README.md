@@ -20,7 +20,7 @@ Here is the link to the Github repository where the repo can be cloned (https://
 
 To use the app, simply visit the deployed site. There's a button you can click in the searchbar to download the app to your local machine so the app can be used locally without an internet connection.
 
-![screenshot1](public/images/Screenshot1.jpg)
+![screenshot2](public/images/Screenshot2.jpg)
 
 ## License
 
@@ -30,7 +30,7 @@ To use the app, simply visit the deployed site. There's a button you can click i
 
 If you want to test the app's offline capabilites, click on the Network tab in the Dev Tools and change connection status to offline.
 
-![screenshot2](public/images/Screenshot2.jpg)
+![screenshot1](public/images/Screenshot1.jpg)
 
 ## Questions
 
