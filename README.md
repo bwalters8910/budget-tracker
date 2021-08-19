@@ -2,7 +2,7 @@
 
 ## Description
 
-My motivation for creating this project was to get practice coverting an already existing applicaiton to a PWA (progressive web app),  that can be used offline if not connected to the internet. This application would be useful to anyone who wants to track their expenses and may not have access to an internet connection, perhaps while traveling abroad. During this project, I learned what an app requires to be a PWA and work offline. I also learned how to connect my Mongo database to Heroku using MongoDB Atlas.
+My motivation for creating this project was to get practice converting an already existing applicaiton to a PWA (progressive web app),  that can be used offline if not connected to the internet. This application would be useful to anyone who wants to track their expenses and may not have access to an internet connection, perhaps while traveling abroad. During this project, I learned what an app requires to be a PWA and work offline. I also learned how to connect my Mongo database to Heroku using MongoDB Atlas.
 
 ## Table of Contents
 
